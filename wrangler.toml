@@ -1,0 +1,7 @@
+name = "ratting-system"
+main = "worker.js"
+compatibility_date = "2026-07-27"
+
+[[kv_namespaces]]
+binding = "RATINGS"
+id = "4295befd4d38465e908c2a47cb1c3c8d"
